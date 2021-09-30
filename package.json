@@ -1,0 +1,22 @@
+{
+  "name": "vektor-income-event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiopapai/vektor-income-event.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiopapai/vektor-income-event/issues"
+  },
+  "homepage": "https://github.com/caiopapai/vektor-income-event#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
